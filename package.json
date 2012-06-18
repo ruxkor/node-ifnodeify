@@ -1,0 +1,19 @@
+{
+  "author": "Andor Goetzendorff <andor@pokermania.de>",
+  "name": "ifnodeify",
+  "description": "simulates browserbuild's conditional node blocks in browserify",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ruxkor/node-ifnodeify.git"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "~1"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
